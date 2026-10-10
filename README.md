@@ -131,4 +131,4 @@ The project strengthened practical skills in data analysis and visualization whi
 
 **Meharin Ullas**
 
-Bachelor of Computer Applications (BCA)
+
